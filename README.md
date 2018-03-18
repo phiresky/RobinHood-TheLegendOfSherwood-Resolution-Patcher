@@ -57,4 +57,4 @@ On a semi-related note, there are some undocumented flags on the (Linux) executa
 * -EXTRACTHUNK
 * -GAMEPAD
 
-I always run the game in windowed mode without input grab (`-NOFULLSCREEN -NOINPUTGRAB`) moving the screen around with the keyboard instead.
+I always run the game in windowed mode without input grab (`-NOFULLSCREEN -NOINPUTGRAB`) moving the screen around with the keyboard instead. Alt+G ([Or Ctrl+G](https://bitbucket.org/runesoftdev/robinhood_public/wiki/Changelog)) toggles the mouse grab.
