@@ -4,8 +4,8 @@
 #include <iostream>
 using namespace std;
 
-//int ofs = 260; // first save
-int ofs = 0xd5e; // second save
+int ofs = 260; // first save
+//int ofs = 0xd5e; // second save
 int main(int argc, char *argv[])
 {
 	if(argc!=3) {
@@ -20,7 +20,7 @@ int main(int argc, char *argv[])
 		float rf[2];
 		fseek(f, ofs, SEEK_SET);
 		fread(&rf, 4, 2, f);
-		printf("%d, Resolution was %dx%d\n",ofs,int(rf[0]),int(rf[1]));
+		printf("Savegame Offset 0x%x, Resolution was %dx%d\n",ofs,int(rf[0]),int(rf[1]));
 
 		//write file
 		float wf[2]={float(x),float(y)};
