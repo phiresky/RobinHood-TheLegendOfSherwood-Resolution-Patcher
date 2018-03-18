@@ -1,4 +1,4 @@
-`Robin Hood: The Legend of Sherwood` is a great game that was released in 2001. The Linux version was released in 2012.
+`Robin Hood: The Legend of Sherwood` is a great game that was released in 2002. The [Linux version](http://www.rune-soft.com/Games/Released/Game-239/game=Robin_Hood_The_Legend_of_Sherwood-13) ([Desura](http://www.desura.com/games/robin-hood-the-legend-of-sherwood)) was released in 2005.
 
 ## Before:
 
