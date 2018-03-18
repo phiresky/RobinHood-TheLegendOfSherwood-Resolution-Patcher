@@ -17,7 +17,7 @@ The game natively only supports 640x480, 800x600 and 1024x768. Which is tiny on 
 The resolution is stored per profile slot in the save game file, with the first save game being at binary offset 0x104, and the second at binary offset 0xd5e. They are stored as floats for some reason, but you can simply replace those floats and the game will run at any resolution.
 
 ```sh
-$ ./respatcher 2560 1440
+$ ./respatcher.elf 2560 1440
 Savegame Offset 0x104, Resolution was 1920x1080
 Resolution set to 2560x1440
 ```
@@ -33,7 +33,9 @@ Since there is still discussion about this on the Steam version and people are p
 * https://steamcommunity.com/app/46560/discussions/0/35220315567529271/
 * https://steamcommunity.com/app/46560/discussions/0/810938082782141946/
 * https://steamcommunity.com/app/46560/discussions/0/828940351679978347/
-
+* https://steamcommunity.com/app/46560/discussions/0/1486613649679433637/
+* https://steamcommunity.com/app/46560/discussions/0/1843493219427746731/
+* https://steamcommunity.com/app/46560/discussions/0/624075036328200733/
 )
 
 I'm posting this patcher again on GitHub.
