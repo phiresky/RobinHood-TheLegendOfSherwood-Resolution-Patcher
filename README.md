@@ -1,5 +1,13 @@
 `Robin Hood: The Legend of Sherwood` is a great game that was released in 2001. The Linux version was released in 2012.
 
+## Before:
+
+![before.jpg](before.jpg)
+
+## After:
+
+![after.jpg](after.jpg)
+
 ![hd.jpg](hd.jpg)
 
 ![hd.gif](hd.gif)
